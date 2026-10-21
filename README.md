@@ -3,7 +3,7 @@
 A lightweight, responsive web application built for floor staff to manage custom handcrafted furniture pieces, track pricing, photographs, materials, and workshop records in real-time. Designed to replace manual paper systems and Excel sheets, eliminating data loss and operational slowdowns.
 
 ##  Live Demo
-[View Live Deployment on Vercel](#) *(Replace with your live Vercel URL once deployed)*
+https://handcrafted-furniture-workshop-gall-gamma.vercel.app
 
 ---
 
