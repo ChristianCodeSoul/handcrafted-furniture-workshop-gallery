@@ -186,9 +186,8 @@ textarea {
   overflow: hidden;
   border: 1px solid #e4d8c9;
   border-radius: var(--radius-large);
-  background: 
-    radial-gradient(ellipse at 88% 8%, rgb(255 255 255 / 75%), transparent 38%),
-    linear-gradient(115deg, #eee2d3, #f5eee5 65%, #e5d4c0);
+  background: linear-gradient(115deg, #eee2d3, #f5eee5 80%, #e5d4c0);
+  will-change: transform;
 }
 
 .hero-copy {
